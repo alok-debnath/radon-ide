@@ -12,7 +12,7 @@
     "expo"
   ],
   "icon": "assets/logo.png",
-  "pricing": "Trial",
+  "pricing": "Free",
   "activationEvents": [
     "workspaceContains:**/node_modules/react-native",
     "workspaceContains:**/app.json",
